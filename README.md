@@ -20,3 +20,22 @@ and when we assign any Non-Primitive datatype it stores in -( Heap Memory )-
 4. Math.min( ) - returns the min value of an array <br>
 5. Math.max( ) - return the max value of an array <br>
 <hr>
+
+<h4>IMP Array Methods</h4>
+<img src="assets/img/Arrays_Methods.png" style="width: 40rem">
+<img src="assets/img/Arrays_Methods_002.png" style="width: 40rem">
+<hr>
+<h4>Difference between .slice( ) & .splice( ) methods</h4>
+<img src="assets/img/slice_method.png" style="width: 40rem">
+<img src="assets/img/slice_method_output.png" style="width: 40rem">
+<img src="assets/img/splice_method.png" style="width: 40rem">
+<img src="assets/img/splice_method_output.png" style="width: 40rem">
+<hr>
+
+<h4>How to Cancatinate 2 or more Arrays</h4>
+<img src="assets/img/mergingTheArrays.png" style="width: 40rem">
+<img src="assets/img/mergedArrayOutput.png" style="width: 20rem">
+<hr>
+
+<h4>How to Convert String into Array</h4>
+<img src="assets/img/convertIntoArray.png" style="width: 50rem">
